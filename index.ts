@@ -35,10 +35,10 @@ console.log(`Value of z: ${z}`)
 // inference variable -> ts can automatically define types based on first assignment
 
 let obj = {
-    name: "Aaryan",
-    role: "Trainer",
-    salary: 50000,
-    exp: 10
+    name: "Suryansh",
+    role: "Student",
+    salary: 0,
+    exp: 1
 }
 
 console.log(obj);
