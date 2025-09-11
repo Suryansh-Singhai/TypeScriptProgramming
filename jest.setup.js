@@ -1,1 +1,1 @@
-require('jest-fetch-mock');
+require('jest-fetch-mock').enableFetchMocks();
