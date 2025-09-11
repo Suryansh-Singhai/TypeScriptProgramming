@@ -1,3 +1,9 @@
+on:
+  push:
+    branches: [Day5]
+  pull_request:
+    branches: [Day5]
+
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
